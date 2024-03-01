@@ -11,12 +11,6 @@
             <class name="com.thetestingacademy.tests.crud.PATCH.NonBddPatch"></class>
             <class name="com.thetestingacademy.tests.crud.PUT.NonBDDPUT"></class>
 
-            
-
-
-
-
-
         </classes>
     </test>
 </suite>

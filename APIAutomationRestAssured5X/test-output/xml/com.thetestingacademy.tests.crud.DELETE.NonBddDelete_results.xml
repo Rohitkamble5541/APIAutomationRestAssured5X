@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="APIAutomationRestAssured5X"
+<testsuite name="C:/Users/Rohit/IdeaProjects/APIAutomationRestAssured5X"
            tests="1"
            failures="1"
            errors="0"
            skipped="0"
-           time="2.349">
+           time="2.853">
     <properties></properties>
 
             <testcase
                 name="testdeleteRequest"
-                time="2.349"
+                time="2.853"
                 classname="com.thetestingacademy.tests.crud.DELETE.NonBddDelete">
 
             <failure type="java.lang.AssertionError" message="1 expectation failed.
