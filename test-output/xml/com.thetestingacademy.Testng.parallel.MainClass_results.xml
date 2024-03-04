@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="APIAutomationRestAssured5X"
+           tests="2"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="0.002">
+    <properties></properties>
+
+
+
+            <testcase
+                name="testMethodOne"
+                time="0.001"
+                classname="com.thetestingacademy.Testng.parallel.MainClass">
+            </testcase>
+            <testcase
+                name="testMethodTwo"
+                time="0.001"
+                classname="com.thetestingacademy.Testng.parallel.MainClass">
+            </testcase>
+</testsuite>
